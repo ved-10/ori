@@ -1,0 +1,225 @@
+.head{
+      
+  background-color:black;
+  border:solid;
+  font-family: papyrus;
+  border: 2px solid black;
+  border-radius: 50px;
+  
+
+   }
+   .ahead{
+     background-color: yellow;
+     border: solid;
+     font-family: papyrus;
+     border: 2px solid black;
+     border-radius: 50px;
+   }
+
+   
+
+.grid {
+  background: darkred;
+  background-color: #F0F8FF;
+  display: flex;
+  justify-content: last baseline;
+  flex-direction: row;
+  text-align:center;
+  flex-wrap: wrap;
+}
+.grid img{
+  border: 2px solid black;
+  border-radius: 50px;
+}
+.animal img{
+  border: 2px solid black;
+  border-radius: 50px;
+}
+.camel {
+  border: 2px solid black;
+  border-radius: 50px;
+  margin-top: 10px;
+  margin-bottom:10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+
+.chameleon {
+  border: 2px solid black;
+  border-radius: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.pigeon {
+  border: 2px solid black;
+  border-radius: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.teddybear{
+  border: 2px solid black;
+  border-radius: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+.panda{
+  border: 2px solid black;
+  border-radius: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.cicada{
+  border: 2px solid black;
+  border-radius: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.crane{
+  border: 2px solid black;
+  border-radius: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.frog{
+  border: 2px solid black;
+  border-radius: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+.animal{
+  border: 2px solid black;
+  border-radius: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 600px;
+  height: 200px;
+  padding: 50px;
+  border-radius: 50px;
+  background-color:#E8E5E4;
+}
+
+.a:link{
+  color:black
+}
+a:visited{
+  color: red ;
+}
+a:hover{
+  color:purple;
+ 
+  
+}
+a:active{
+  color: yellow;
+}
+.menu{
+  margin-right:30px;
+}
+
+.menu a{
+  margin-left: 20px;
+}
+
+.camel:hover{
+  opacity:1;
+  transform:scale(1.1);
+}
+.camel:hover img{
+  opacity: 0.33;
+}
+
+.chameleon:hover{
+  opacity:1;
+  transform:scale(1.1);
+}
+.chameleon:hover img{
+  opacity: 0.33;
+}
+.panda:hover{
+  opacity:1;
+  transform:scale(1.1);
+}
+.panda:hover img{
+  opacity: 0.33;
+}
+.cicada:hover{
+  opacity:1;
+  transform:scale(1.1);
+}
+.cicada:hover img{
+  opacity: 0.33;
+  
+}
+.pigeon:hover{
+  opacity:1;
+  transform:scale(1.1);
+}
+.pigeon:hover img{
+  opacity: 0.33;
+}
+.teddybear:hover{
+  opacity:1;
+  transform:scale(1.1);
+}
+.teddybear:hover img{
+  opacity: 0.33;
+}
+.crane:hover{
+  opacity:1;
+  transform:scale(1.1);
+}
+.crane:hover img{
+  opacity: 0.33;
+}
+.frog:hover{
+  opacity:1;
+  transform:scale(1.1);
+}
+.frog:hover img{
+  opacity: 0.33;
+}
+
+.animal:hover{
+  opacity: 1;
+  transform:scale(1.1);
+}
+.animal:hover img{
+  opacity: 0.33;
+}
+
